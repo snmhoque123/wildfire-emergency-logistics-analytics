@@ -1,0 +1,7 @@
+scenario_id,origin_id,destination_id,required_cases,route_path,route_km,travel_hours,estimated_delivery_hours,delivered_cost_per_case,estimated_total_cost,status,selected
+normal,KEL,SITE_A,120,KEL > KAM > SITE_A,235.0,3.1,4.1,31.41,3769.5,FEASIBLE,True
+normal,CAL,SITE_A,120,CAL > GLD > REV > KAM > SITE_A,643.0,8.7,9.5,36.45,4373.4,FEASIBLE,False
+wildfire,KEL,SITE_A,120,,,,,,,NO_OPEN_ROUTE,False
+wildfire,CAL,SITE_A,120,CAL > GLD > REV > KAM > SITE_A,643.0,8.7,9.5,36.45,4373.4,FEASIBLE,True
+relocation,KEL,SITE_B,120,,,,,,,NO_OPEN_ROUTE,False
+relocation,CAL,SITE_B,120,CAL > GLD > REV > SITE_B,425.0,5.8,6.6,33.17,3981.0,FEASIBLE,True

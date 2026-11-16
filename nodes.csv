@@ -1,0 +1,8 @@
+node_id,node_name,latitude,longitude,node_type
+KEL,Kelowna OPCO,49.8880,-119.4960,origin
+KAM,Kamloops Junction,50.6745,-120.3273,junction
+REV,Revelstoke Junction,50.9981,-118.1957,junction
+GLD,Golden Junction,51.2961,-116.9631,junction
+CAL,Calgary OPCO,51.0447,-114.0719,origin
+SITE_A,Emergency Support Site A,50.7100,-120.2500,destination
+SITE_B,Temporary Support Site B,51.0100,-118.1500,destination

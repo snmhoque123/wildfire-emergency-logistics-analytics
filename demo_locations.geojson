@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "node_id": "KEL",
+        "node_name": "Kelowna OPCO",
+        "node_type": "origin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.496,
+          49.888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "node_id": "KAM",
+        "node_name": "Kamloops Junction",
+        "node_type": "junction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3273,
+          50.6745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "node_id": "REV",
+        "node_name": "Revelstoke Junction",
+        "node_type": "junction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1957,
+          50.9981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "node_id": "GLD",
+        "node_name": "Golden Junction",
+        "node_type": "junction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9631,
+          51.2961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "node_id": "CAL",
+        "node_name": "Calgary OPCO",
+        "node_type": "origin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0719,
+          51.0447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "node_id": "SITE_A",
+        "node_name": "Emergency Support Site A",
+        "node_type": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.25,
+          50.71
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "node_id": "SITE_B",
+        "node_name": "Temporary Support Site B",
+        "node_type": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.15,
+          51.01
+        ]
+      }
+    }
+  ]
+}

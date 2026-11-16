@@ -1,0 +1,4 @@
+scenario_id,scenario_description,edge_status_field,destination_id,required_cases,max_delivery_hours
+normal,Illustrative pre-closure comparison,normal_status,SITE_A,120,12
+wildfire,Illustrative Kelowna access disruption,wildfire_status,SITE_A,120,12
+relocation,Illustrative responder site relocated,relocation_status,SITE_B,120,12

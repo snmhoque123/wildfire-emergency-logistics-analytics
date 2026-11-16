@@ -1,0 +1,317 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "scenario_id": "normal",
+        "origin_id": "KEL",
+        "from_node": "KEL",
+        "to_node": "KAM",
+        "edge_id": "E01",
+        "selected": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -119.496,
+            49.888
+          ],
+          [
+            -120.3273,
+            50.6745
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "scenario_id": "normal",
+        "origin_id": "KEL",
+        "from_node": "KAM",
+        "to_node": "SITE_A",
+        "edge_id": "E06",
+        "selected": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -120.3273,
+            50.6745
+          ],
+          [
+            -120.25,
+            50.71
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "scenario_id": "normal",
+        "origin_id": "CAL",
+        "from_node": "CAL",
+        "to_node": "GLD",
+        "edge_id": "E05",
+        "selected": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.0719,
+            51.0447
+          ],
+          [
+            -116.9631,
+            51.2961
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "scenario_id": "normal",
+        "origin_id": "CAL",
+        "from_node": "GLD",
+        "to_node": "REV",
+        "edge_id": "E04",
+        "selected": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -116.9631,
+            51.2961
+          ],
+          [
+            -118.1957,
+            50.9981
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "scenario_id": "normal",
+        "origin_id": "CAL",
+        "from_node": "REV",
+        "to_node": "KAM",
+        "edge_id": "E03",
+        "selected": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.1957,
+            50.9981
+          ],
+          [
+            -120.3273,
+            50.6745
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "scenario_id": "normal",
+        "origin_id": "CAL",
+        "from_node": "KAM",
+        "to_node": "SITE_A",
+        "edge_id": "E06",
+        "selected": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -120.3273,
+            50.6745
+          ],
+          [
+            -120.25,
+            50.71
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "scenario_id": "wildfire",
+        "origin_id": "CAL",
+        "from_node": "CAL",
+        "to_node": "GLD",
+        "edge_id": "E05",
+        "selected": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.0719,
+            51.0447
+          ],
+          [
+            -116.9631,
+            51.2961
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "scenario_id": "wildfire",
+        "origin_id": "CAL",
+        "from_node": "GLD",
+        "to_node": "REV",
+        "edge_id": "E04",
+        "selected": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -116.9631,
+            51.2961
+          ],
+          [
+            -118.1957,
+            50.9981
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "scenario_id": "wildfire",
+        "origin_id": "CAL",
+        "from_node": "REV",
+        "to_node": "KAM",
+        "edge_id": "E03",
+        "selected": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.1957,
+            50.9981
+          ],
+          [
+            -120.3273,
+            50.6745
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "scenario_id": "wildfire",
+        "origin_id": "CAL",
+        "from_node": "KAM",
+        "to_node": "SITE_A",
+        "edge_id": "E06",
+        "selected": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -120.3273,
+            50.6745
+          ],
+          [
+            -120.25,
+            50.71
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "scenario_id": "relocation",
+        "origin_id": "CAL",
+        "from_node": "CAL",
+        "to_node": "GLD",
+        "edge_id": "E05",
+        "selected": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.0719,
+            51.0447
+          ],
+          [
+            -116.9631,
+            51.2961
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "scenario_id": "relocation",
+        "origin_id": "CAL",
+        "from_node": "GLD",
+        "to_node": "REV",
+        "edge_id": "E04",
+        "selected": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -116.9631,
+            51.2961
+          ],
+          [
+            -118.1957,
+            50.9981
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "scenario_id": "relocation",
+        "origin_id": "CAL",
+        "from_node": "REV",
+        "to_node": "SITE_B",
+        "edge_id": "E07",
+        "selected": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.1957,
+            50.9981
+          ],
+          [
+            -118.15,
+            51.01
+          ]
+        ]
+      }
+    }
+  ]
+}

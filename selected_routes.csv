@@ -1,0 +1,4 @@
+scenario_id,origin_id,destination_id,route_path,route_km,estimated_delivery_hours,estimated_total_cost
+normal,KEL,SITE_A,KEL > KAM > SITE_A,235.0,4.1,3769.5
+wildfire,CAL,SITE_A,CAL > GLD > REV > KAM > SITE_A,643.0,9.5,4373.4
+relocation,CAL,SITE_B,CAL > GLD > REV > SITE_B,425.0,6.6,3981.0
